@@ -1,0 +1,6 @@
+numpy
+request
+seaborn
+matplotlib
+scipy
+pandas
